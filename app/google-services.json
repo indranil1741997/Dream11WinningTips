@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "466549418502",
+    "firebase_url": "https://dream11winningtips-367e8.firebaseio.com",
+    "project_id": "dream11winningtips-367e8",
+    "storage_bucket": "dream11winningtips-367e8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466549418502:android:8a2318517a2fbdd2",
+        "android_client_info": {
+          "package_name": "com.Dream11.Winning.tips"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "466549418502-tt2nuent77iuou5qgs9uo5j3gksf9qcj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.Dream11.Winning.tips",
+            "certificate_hash": "98e6a819122d844600fa94239c6ea5e9cf8eae12"
+          }
+        },
+        {
+          "client_id": "466549418502-v1hudaoa3p1c1affb42r91ec0qtm6tho.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuq4gy10Z-CbcxmvY67-sxQEsBwQImbPk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "466549418502-v1hudaoa3p1c1affb42r91ec0qtm6tho.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
